@@ -1,6 +1,6 @@
 ### Leaders
-* [Manish Kumar: Faculty Advisor ](mailto:manishkumarjsr@gmail.com)
-* [Tulasi Rayasa](mailto:tulasi.rayasa@gmail.com)
-* [Shreyank Srinivasan](mailto:shreyanksh141@gmail.com)
-* [S Shreyas](mailto:shreyas1665@gmail.com)
-* [Pratham K](mailto:prathamkish@gmail.com)
+* [Manish Kumar: Faculty Advisor ](mailto:manish.kumar@owasp.org)
+* [Tulasi Rayasa](mailto:tulasi.rayasa@owasp.org)
+* [Shreyank Srinivasan](mailto:shreyank.srinivasan@owasp.org)
+* [S Shreyas](mailto:s.shreyas@owasp.org)
+* [Pratham K](mailto:pratham.k@owasp.org)

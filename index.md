@@ -8,9 +8,6 @@ country: India
 meetup-group:
 
 ---
-
-
-
 # Welcome to the OWASP Student Chapter at RV University!
 
 **Chapter Launch Date:** March 12, 2025
@@ -31,7 +28,6 @@ Stay tuned for announcements regarding our upcoming meetups, workshops, and gues
 Become a member of our chapter to access exclusive resources, participate in events, and be part of a growing community committed to improving software security. Whether you're a beginner or an experienced professional, your journey in cybersecurity starts here!
 
 We look forward to seeing you at our events and building a strong culture of cybersecurity at RV University!
-
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

@@ -41,6 +41,6 @@ Next Meeting/Event
 Currently, there are no events planned. However, we encourage you to stay connected with us through our social media channels for updates on future events, workshops, and activities. 
 
 ### Follow Us (Will be out soon):
-- [LinkedIn](#linkedin.com/in/owasp-rv-university-4a853a35a)
-- [Instagram](#https://www.instagram.com/owasp_rv.university/)
+- [LinkedIn](linkedin.com/in/owasp-rv-university-4a853a35a)
+- [Instagram](https://www.instagram.com/owasp_rv.university/)
 - [Twitter](#)

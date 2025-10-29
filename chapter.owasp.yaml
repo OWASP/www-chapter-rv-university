@@ -1,0 +1,32 @@
+leaders:
+  - name: Manish Kumar
+    email: manish.kumar@owasp.org
+  - name: Tulasi Rayasa
+    email: tulasi.rayasa@owasp.org
+    github: tulasigr
+  - name: Shreyank Srinivasan Harisha
+    email: shreyank.srinivasan@owasp.org
+    github: Shreyank-SH
+  - name: Pratham K
+    email: pratham.k@owasp.org
+    github: Prathamk2003
+  - name: S Shreyas
+    email: s.shreyas@owasp.org
+    github: shreyaskgit
+location:
+  country: India
+  country_code: IN
+  region: Karnataka
+  city: Bengaluru
+  latitude: 12.98815675
+  longitude: 77.62260003796
+name: OWASP RV University Student Chapter
+repositories:
+  - name: www-chapter-rv-university
+    url: https://github.com/OWASP/www-chapter-rv-university
+    description: OWASP Foundation web repository
+tags:
+  - owasprvu
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-rv-university

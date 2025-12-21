@@ -12,7 +12,7 @@ meetup-group:
 
 **Chapter Launch Date:** March 12, 2025
 
-We are excited to announce the establishment of the OWASP Student Chapter at RV University, dedicated to fostering a community of students passionate about web application security. As part of the global Open Web Application Security Project (OWASP), we aim to enhance the understanding of cybersecurity principles and practices among our members.
+We are excited to announce the establishment of the OWASP Student Chapter at RV University, dedicated to fostering a community of students passionate about web application security. As part of the global Open Worldwide Application Security Project (OWASP), we aim to enhance the understanding of cybersecurity principles and practices among our members.
 
 ## Our Mission
 Our mission is to promote awareness and education in web application security through:

@@ -38,8 +38,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Event Reports
 
-- 📄 **[Inaugural Event Report – February 2026](https://owasp.org/www-chapter-rv-university/#div-pastevents)**  
-  *The Day When the True Spirit Kickstarts!*
+Check out the past events tab!!
+ 
   
 Next Meeting/Event 
 ---------------------

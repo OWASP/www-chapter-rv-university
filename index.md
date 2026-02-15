@@ -39,7 +39,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Event Reports
 
-- 📄 **[Inaugural Event Report – February 2026](events.md)**  
+- 📄 **[Inaugural Event Report – February 2026](past_events.md)**  
   *The Day When the True Spirit Kickstarts!*
 
 Next Meeting/Event 

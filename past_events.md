@@ -1,7 +1,10 @@
 ---
-layout: col-sidebar
-title: OWASP RVU Student Chapter – Event Report (February 2026)
-tags: owasprvu event-report
+title: Past Events
+displaytext: Past Events
+layout: null
+tab: true
+order: 2
+tags: owasp-rvu event-report cybersecurity
 ---
 
 # OWASP Student Chapter Report  

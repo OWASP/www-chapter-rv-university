@@ -36,6 +36,11 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
+## Event Reports
+
+- 📄 **[Inaugural Event Report – February 2026](https://owasp.org/www-chapter-rv-university/#div-pastevents)**  
+  *The Day When the True Spirit Kickstarts!*
+  
 Next Meeting/Event 
 ---------------------
 Currently, there are no events planned. However, we encourage you to stay connected with us through our social media channels for updates on future events, workshops, and activities. 
